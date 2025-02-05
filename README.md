@@ -1,3 +1,7 @@
 # Outside Adventures
 
-## On my webpage, I will show videos of scuba diving in Maui and hiking in Yellowstone.
+## Videos of Outdoor Adventures:
+- Scuba Diving in Maui
+- Hiking in Yellowstone
+- Rafting White Nile in Uganda
+- Glacier Hiking in Iceland
